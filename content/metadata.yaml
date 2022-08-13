@@ -1,27 +1,19 @@
 ---
-title: "Manuscript Title"
+title: "theFuckingManual"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - earth
+  - good practices
+  - future
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
+  - github: bmuyl
+    name: Benjamin Muyl
+    initials: BM
     orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+    twitter: bmuyl
+    email: bmuyl@mac.com
     affiliations:
-      - Department of Something, University of Whatever
+      - none
     funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - none
     corresponding: true
