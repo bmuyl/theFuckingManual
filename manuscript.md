@@ -5,7 +5,7 @@ keywords:
 - good practices
 - future
 lang: en-US
-date-meta: '2022-08-13'
+date-meta: '2022-08-23'
 author-meta:
 - Benjamin Muyl
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="theFuckingManual" />
   <meta property="og:title" content="theFuckingManual" />
   <meta property="twitter:title" content="theFuckingManual" />
-  <meta name="dc.date" content="2022-08-13" />
-  <meta name="citation_publication_date" content="2022-08-13" />
+  <meta name="dc.date" content="2022-08-23" />
+  <meta name="citation_publication_date" content="2022-08-23" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/37da115a089baf140fdd3faee19c5134ff253a39/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/37da115a089baf140fdd3faee19c5134ff253a39/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/37da115a089baf140fdd3faee19c5134ff253a39/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/1dc514c43decc94d538300717c854a6db055de8a/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/1dc514c43decc94d538300717c854a6db055de8a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/1dc514c43decc94d538300717c854a6db055de8a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,10 +60,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/37da115a089baf140fdd3faee19c5134ff253a39/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/1dc514c43decc94d538300717c854a6db055de8a/))
 was automatically generated
-from [bmuyl/theFuckingManual@37da115](https://github.com/bmuyl/theFuckingManual/tree/37da115a089baf140fdd3faee19c5134ff253a39)
-on August 13, 2022.
+from [bmuyl/theFuckingManual@1dc514c](https://github.com/bmuyl/theFuckingManual/tree/1dc514c43decc94d538300717c854a6db055de8a)
+on August 23, 2022.
 </em></small>
 
 ## Authors
@@ -95,7 +95,7 @@ Benjamin Muyl \<bmuyl@mac.com\>.
 
 ## Abstract {.page_break_before}
 
-
+test
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
