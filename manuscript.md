@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/53828a03012c187ee22080a58ff81dad0345df44/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/53828a03012c187ee22080a58ff81dad0345df44/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/53828a03012c187ee22080a58ff81dad0345df44/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/7ffd8e700206f129004bfe0c18da845c80c8a1c6/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7ffd8e700206f129004bfe0c18da845c80c8a1c6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7ffd8e700206f129004bfe0c18da845c80c8a1c6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/53828a03012c187ee22080a58ff81dad0345df44/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/7ffd8e700206f129004bfe0c18da845c80c8a1c6/))
 was automatically generated
-from [bmuyl/theFuckingManual@53828a0](https://github.com/bmuyl/theFuckingManual/tree/53828a03012c187ee22080a58ff81dad0345df44)
+from [bmuyl/theFuckingManual@7ffd8e7](https://github.com/bmuyl/theFuckingManual/tree/7ffd8e700206f129004bfe0c18da845c80c8a1c6)
 on August 23, 2022.
 </em></small>
 
@@ -98,7 +98,7 @@ Benjamin Muyl \<bmuyl@mac.com\>.
 test
 
 
-And again
+LocalMod1
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
 

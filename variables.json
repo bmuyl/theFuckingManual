@@ -11,7 +11,7 @@
     "author-meta": [
       "Benjamin Muyl"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"theFuckingManual\" />\n<meta name=\"citation_title\" content=\"theFuckingManual\" />\n<meta property=\"og:title\" content=\"theFuckingManual\" />\n<meta property=\"twitter:title\" content=\"theFuckingManual\" />\n<meta name=\"dc.date\" content=\"2022-08-23\" />\n<meta name=\"citation_publication_date\" content=\"2022-08-23\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Benjamin Muyl\" />\n<meta name=\"citation_author_institution\" content=\"none\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@bmuyl\" />\n<link rel=\"canonical\" href=\"https://bmuyl.github.io/theFuckingManual/\" />\n<meta property=\"og:url\" content=\"https://bmuyl.github.io/theFuckingManual/\" />\n<meta property=\"twitter:url\" content=\"https://bmuyl.github.io/theFuckingManual/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://bmuyl.github.io/theFuckingManual/\" />\n<meta name=\"citation_pdf_url\" content=\"https://bmuyl.github.io/theFuckingManual/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://bmuyl.github.io/theFuckingManual/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://bmuyl.github.io/theFuckingManual/v/53828a03012c187ee22080a58ff81dad0345df44/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://bmuyl.github.io/theFuckingManual/v/53828a03012c187ee22080a58ff81dad0345df44/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://bmuyl.github.io/theFuckingManual/v/53828a03012c187ee22080a58ff81dad0345df44/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"theFuckingManual\" />\n<meta name=\"citation_title\" content=\"theFuckingManual\" />\n<meta property=\"og:title\" content=\"theFuckingManual\" />\n<meta property=\"twitter:title\" content=\"theFuckingManual\" />\n<meta name=\"dc.date\" content=\"2022-08-23\" />\n<meta name=\"citation_publication_date\" content=\"2022-08-23\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Benjamin Muyl\" />\n<meta name=\"citation_author_institution\" content=\"none\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@bmuyl\" />\n<link rel=\"canonical\" href=\"https://bmuyl.github.io/theFuckingManual/\" />\n<meta property=\"og:url\" content=\"https://bmuyl.github.io/theFuckingManual/\" />\n<meta property=\"twitter:url\" content=\"https://bmuyl.github.io/theFuckingManual/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://bmuyl.github.io/theFuckingManual/\" />\n<meta name=\"citation_pdf_url\" content=\"https://bmuyl.github.io/theFuckingManual/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://bmuyl.github.io/theFuckingManual/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://bmuyl.github.io/theFuckingManual/v/7ffd8e700206f129004bfe0c18da845c80c8a1c6/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://bmuyl.github.io/theFuckingManual/v/7ffd8e700206f129004bfe0c18da845c80c8a1c6/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://bmuyl.github.io/theFuckingManual/v/7ffd8e700206f129004bfe0c18da845c80c8a1c6/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -54,19 +54,19 @@
       "repo_slug": "bmuyl/theFuckingManual",
       "repo_owner": "bmuyl",
       "repo_name": "theFuckingManual",
-      "commit": "53828a03012c187ee22080a58ff81dad0345df44",
-      "triggering_commit": "53828a03012c187ee22080a58ff81dad0345df44",
-      "build_url": "https://github.com/bmuyl/theFuckingManual/commit/53828a03012c187ee22080a58ff81dad0345df44/checks",
-      "job_url": "https://github.com/bmuyl/theFuckingManual/actions/runs/2914263295"
+      "commit": "7ffd8e700206f129004bfe0c18da845c80c8a1c6",
+      "triggering_commit": "7ffd8e700206f129004bfe0c18da845c80c8a1c6",
+      "build_url": "https://github.com/bmuyl/theFuckingManual/commit/7ffd8e700206f129004bfe0c18da845c80c8a1c6/checks",
+      "job_url": "https://github.com/bmuyl/theFuckingManual/actions/runs/2914310229"
     },
     "html_url": "https://bmuyl.github.io/theFuckingManual/",
     "pdf_url": "https://bmuyl.github.io/theFuckingManual/manuscript.pdf",
-    "html_url_versioned": "https://bmuyl.github.io/theFuckingManual/v/53828a03012c187ee22080a58ff81dad0345df44/",
-    "pdf_url_versioned": "https://bmuyl.github.io/theFuckingManual/v/53828a03012c187ee22080a58ff81dad0345df44/manuscript.pdf",
+    "html_url_versioned": "https://bmuyl.github.io/theFuckingManual/v/7ffd8e700206f129004bfe0c18da845c80c8a1c6/",
+    "pdf_url_versioned": "https://bmuyl.github.io/theFuckingManual/v/7ffd8e700206f129004bfe0c18da845c80c8a1c6/manuscript.pdf",
     "manubot_version": "0.5.2",
     "rootstock_commit": "9504aa7751e9d5ca0e7df896bf3aeeb73d2fb262",
     "manuscript_stats": {
-      "word_count": 1479
+      "word_count": 1478
     }
   }
 }
