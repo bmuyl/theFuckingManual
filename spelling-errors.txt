@@ -23,6 +23,7 @@ elit
 enim
 esse
 Excepteur
+Exemple
 exercitation
 fugiat
 incididunt
@@ -31,7 +32,6 @@ irure
 labore
 laboris
 laborum
-LocalMod
 Lorem
 magna
 mollit
@@ -42,7 +42,9 @@ occaecat
 officia
 Pandoc’s
 pariatur
+Présentation
 proident
+projet
 qui
 quis
 reprehenderit
