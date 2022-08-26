@@ -1,5 +1,6 @@
-content/02.PrésentationDuProjet.md:1:Présentation
-content/02.PrésentationDuProjet.md:1:projet
+content/00.front-matter.md:26:Auteurs
+content/02.PresentationDuProjet.md:1:Présentation
+content/02.PresentationDuProjet.md:1:projet
 content/03.PlanDAction.md:1:d'action
 content/04.CommentParticiper.md:1:CommentParticiper
 content/05.ExempleDeCharteDuCitoyen.md:1:Charte
