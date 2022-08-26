@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/a6b47242ae52afad59f8c417d8272d348f016b5a/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/a6b47242ae52afad59f8c417d8272d348f016b5a/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/a6b47242ae52afad59f8c417d8272d348f016b5a/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/e19aae6c0948561428252d12f1f9192bd8110b49/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/e19aae6c0948561428252d12f1f9192bd8110b49/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/e19aae6c0948561428252d12f1f9192bd8110b49/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/a6b47242ae52afad59f8c417d8272d348f016b5a/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/e19aae6c0948561428252d12f1f9192bd8110b49/))
 was automatically generated
-from [bmuyl/theFuckingManual@a6b4724](https://github.com/bmuyl/theFuckingManual/tree/a6b47242ae52afad59f8c417d8272d348f016b5a)
+from [bmuyl/theFuckingManual@e19aae6](https://github.com/bmuyl/theFuckingManual/tree/e19aae6c0948561428252d12f1f9192bd8110b49)
 on August 26, 2022.
 </em></small>
 
