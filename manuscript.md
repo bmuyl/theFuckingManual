@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/566841652f2032c23674dfbf8ebf063cb60c2644/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/566841652f2032c23674dfbf8ebf063cb60c2644/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/566841652f2032c23674dfbf8ebf063cb60c2644/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/5b73e30e6b15efeea78b53b729cc7f1131f29cb3/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/5b73e30e6b15efeea78b53b729cc7f1131f29cb3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/5b73e30e6b15efeea78b53b729cc7f1131f29cb3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/566841652f2032c23674dfbf8ebf063cb60c2644/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/5b73e30e6b15efeea78b53b729cc7f1131f29cb3/))
 was automatically generated
-from [bmuyl/theFuckingManual@5668416](https://github.com/bmuyl/theFuckingManual/tree/566841652f2032c23674dfbf8ebf063cb60c2644)
+from [bmuyl/theFuckingManual@5b73e30](https://github.com/bmuyl/theFuckingManual/tree/5b73e30e6b15efeea78b53b729cc7f1131f29cb3)
 on October 30, 2022.
 </em></small>
 
@@ -289,13 +289,16 @@ Et tant pis si action imparfaite ou incomplète. On bouge.
 Drive 20 km/h below speed limit
 Limit my leisure screen time
 
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
-
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
 
 ## Basic formatting
+
+
+This part of the text is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing text in TheFuckingManual.
+Use this template as a starting point for your manuscript.
+
+The rest of this paragraph is a full list of formatting elements/features supported by Manubot.
+Compare the input (`.md` files in the `/content` directory) to the output you see below.
+
 
 **Bold** __text__
 

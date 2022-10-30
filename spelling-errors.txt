@@ -39,7 +39,7 @@ Cette
 chacun
 changement
 chaque
-Charte
+charte
 Chartes
 choisir
 choix
@@ -79,7 +79,7 @@ d’en
 d’entreprise
 des
 deserunt
-Développement
+développement
 développer
 diffamation
 d’intérêts
@@ -210,9 +210,9 @@ objectifs
 objets
 occaecat
 officia
-opensource
+Opensource
 ou
-outil
+Outil
 outils
 Pandoc’s
 paradigmes
@@ -266,7 +266,7 @@ rien
 s’adresse
 s’agit
 saisir
-Saisissons
+saisissons
 santé
 sauver
 scenarii
@@ -290,6 +290,7 @@ sur
 synchroniser
 tant
 tempor
+TheFuckingManual
 Touriste
 tous
 Toutes
