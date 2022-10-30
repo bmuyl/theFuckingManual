@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/bmuyl/theFuckingManual/tree/gh-pages) branch hosts the contents of this directory at <https://bmuyl.github.io/theFuckingManual/>.
-The permalink for this webpage version is <https://bmuyl.github.io/theFuckingManual/v/566841652f2032c23674dfbf8ebf063cb60c2644/>.
+The permalink for this webpage version is <https://bmuyl.github.io/theFuckingManual/v/5b73e30e6b15efeea78b53b729cc7f1131f29cb3/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://bmuyl.github.io/theFuckingManual/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`566841652f2032c23674dfbf8ebf063cb60c2644`](https://github.com/bmuyl/theFuckingManual/commit/566841652f2032c23674dfbf8ebf063cb60c2644).
+[`5b73e30e6b15efeea78b53b729cc7f1131f29cb3`](https://github.com/bmuyl/theFuckingManual/commit/5b73e30e6b15efeea78b53b729cc7f1131f29cb3).
