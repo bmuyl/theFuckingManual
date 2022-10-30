@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/566841652f2032c23674dfbf8ebf063cb60c2644/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/566841652f2032c23674dfbf8ebf063cb60c2644/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/566841652f2032c23674dfbf8ebf063cb60c2644/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/566841652f2032c23674dfbf8ebf063cb60c2644/))
 was automatically generated
-from [bmuyl/theFuckingManual@7761529](https://github.com/bmuyl/theFuckingManual/tree/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09)
+from [bmuyl/theFuckingManual@5668416](https://github.com/bmuyl/theFuckingManual/tree/566841652f2032c23674dfbf8ebf063cb60c2644)
 on October 30, 2022.
 </em></small>
 
@@ -156,10 +156,138 @@ Auto-éco-(ré)-organisation ( https://fr.wikipedia.org/wiki/Pensée_complexe )
 
 ## 04.CommentParticiper
 
+- développement outil pour rédaction collaborative des documents
+- Développement méthode de calcul de l’énergie des choses
+- Outil de calcul de consommation 
+- Sponsoring ( we still need to live )
+- Évaluer les solutions de liquid démocratie / vote pour la charte 
+- Comment participer  au statement 
+- Comment developer sa propre charte 
 
 
+
+## Lescontenus d'une charte
+
+
+Plan d’actions 
+Options mou / dur 
+Base du volontariat 
+
+A qui s'adresse t elle ? 
+- employeurs 
+- Salaries 
+- Chef d’entreprise 
+- Entreprise 
+- Administration 
+- Parent 
+- Enfant 
+- Étudiant 
+- Touriste 
+- 
+Domaines 
+Énergie 
+Pollution 
+Usage de l’internet 
+Knowledge sharing 
+Objects sharing 
+Achats mutualises 
+Wifi partagés 
+
+Time to apply
+Rewards
+
+
+Identification de l’ambition d’une charte 
+Classement 
+
+ 
+
+Versions / niveau d’ambition 
 
 ## Exemple de Charte du citoyen
+
+## ressources 
+
+
+
+
+Ressources à considérer
+Smart contracts: https://ethereum.org/en/developers/docs/smart-contracts/
+Rewards:  https://openbadges.org
+Democratie :  https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki#table-of-content
+Open data:  https://ckan.org
+Licenses Opensource ( pour la publication des documents / des chartes … ) :  https://opensource.org/licenses
+
+
+Debating plate-forme  deb8
+
+
+
+## En vrac
+
+Nous proposons de développer ensemble des solutions communes pour répondre à ce qui nous semble être des problèmes majeurs de notre société, qui ne semblent y pas trouver de solution dans les politiques / les lois …
+Nous n’imposons rien à personne. Nous nous auto saisissons de problème et proposons des actions , des politiques, des documents , des outils 
+Libre à chacun, idéalement en groupe de 
+S’en saisir et d’organiser ainsi une réponse locale d’abord, puis nous l’espérons mondiale à ces problèmes 
+Toutes les actions sont “à la carte “ en fonction des volontés de chacun. Nous n’avons pas vocation à proposer une politique globale mais plutôt à des outils permettant une auto organisation de groupe autours de ces actions. 
+
+Cette démarche est motivée par la nature globale des problèmatiques dont nous nous saisissons. 
+- Elles nous paraissent nécessiter une action de groupe
+- Elles ne nous paraissent pas trouver de solution adéquate ou assez rapide dans les actions des gouvernements
+
+Libre choix est laissé quant à la confidentialité de la participation à une charte 
+Nous ne souhaitons pas que cette démarche mène un une discrimination du fait d’y avoir ou de n’y avoir pas participé. 
+
+Les problèmes sont globaux, mais du fait de la sommes des actions individuelles. 
+Les problèmes sont sur le temps long quand les gouvernements sont jugés sur le temps court. 
+Le modèle de réponse aux problèmes qui se posent ne fonctionne plus. 
+Pour la première fois de l’histoire nous disposons d’un outil de communication globale pour synchroniser les actions humaines  
+Il a déjà servi lors des printemps arabes
+
+Saisissons de cet outil pour en faire un usage utile ( nous sauver , ou, au moins limiter nos souffrances ) plutôt qu’en laisser l’usage au grands groupe et ainsi persister dans la consommation de masse ( YouTube, Netflix, Amazon… ) et le narcicisme ( Instagram, Facebook, … )
+
+
+
+Exemple de problématiques : 
+- changement climatique 
+- Usage abusif des réseaux sociaux et leur impact sur la santé mentale 
+- Baisse généralisée du niveau de l’éducation 
+- Crise des services de santé. 
+- Évasion fiscale 
+- Baisse de la crédibilité de l’information mainstream 
+- 
+
+
+Démarche apolitique et qui acceptera tous les supports 
+Démarche à vocation universelle
+A chaque fois que cela est possible nous nous efforcerons de documenter les effets attendus des actions par l’usage de modèles opensource. 
+
+
+
+Les administrateurs doivent signer anticor
+Moyens de rémunération ?
+
+L’internationale. 
+
+Remise en cause régulière. 
+Re evaluation des objectifs et des actions
+Kaizen 
+ Par ces chartes et leur possible convergence dans le temps :  création d’une conscience de groupe libérée des Loby et des intérêts des grands groupes 
+
+Comment n’être pas polué par les grands groupes ? 
+Déclaration d’intérêts ?  ( incompatible avec confidentialité ? ) 
+Facts checking ( attention à délation et diffamation )
+
+
+
+Drivé par le passage à l’action et la publication de cette action pour faire boule de neige 
+Et tant pis si action imparfaite ou incomplète. On bouge. 
+
+
+
+
+Drive 20 km/h below speed limit
+Limit my leisure screen time
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
 Use this template as a starting point for your manuscript.
