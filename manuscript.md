@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/c48b0efcd9c8dbc26ecf4f959b1515623246b08e/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/c48b0efcd9c8dbc26ecf4f959b1515623246b08e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/c48b0efcd9c8dbc26ecf4f959b1515623246b08e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/c48b0efcd9c8dbc26ecf4f959b1515623246b08e/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7/))
 was automatically generated
-from [bmuyl/theFuckingManual@c48b0ef](https://github.com/bmuyl/theFuckingManual/tree/c48b0efcd9c8dbc26ecf4f959b1515623246b08e)
+from [bmuyl/theFuckingManual@7447c21](https://github.com/bmuyl/theFuckingManual/tree/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7)
 on October 30, 2022.
 </em></small>
 
@@ -95,7 +95,13 @@ Benjamin Muyl \<bmuyl@mac.com\>.
 
 ## Statement {.page_break_before}
 
-
+État des lieux, urgence, immobilisme malgré les engagements. 
+action par la base 
+Chartes locales, adaptées  - contenu à définir 
+Partage des ressources ( objets , outils , voitures, wifi, abonnements streaming … )
+On ne peut pas choisir un problème et lui proposer une solution. Tout est lié.
+Il faut “comprendre” la situation globale, imaginer des  scenarii de changement de paradigmes, les tester par des modèles. 
+But : aider les gens à s’organiser, à passer à l’action face aux pbs majeurs du monde 
 
 
 ## Présentation du projet
