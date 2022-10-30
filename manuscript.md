@@ -5,7 +5,7 @@ keywords:
 - good practices
 - future
 lang: en-US
-date-meta: '2022-08-26'
+date-meta: '2022-10-30'
 author-meta:
 - Benjamin Muyl
 header-includes: |-
@@ -18,8 +18,8 @@ header-includes: |-
   <meta name="citation_title" content="theFuckingManual" />
   <meta property="og:title" content="theFuckingManual" />
   <meta property="twitter:title" content="theFuckingManual" />
-  <meta name="dc.date" content="2022-08-26" />
-  <meta name="citation_publication_date" content="2022-08-26" />
+  <meta name="dc.date" content="2022-10-30" />
+  <meta name="citation_publication_date" content="2022-10-30" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/e19aae6c0948561428252d12f1f9192bd8110b49/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/e19aae6c0948561428252d12f1f9192bd8110b49/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/e19aae6c0948561428252d12f1f9192bd8110b49/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/59d48d26600aabfc6325efd683291c2e61bad673/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/59d48d26600aabfc6325efd683291c2e61bad673/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/59d48d26600aabfc6325efd683291c2e61bad673/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,10 +60,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/e19aae6c0948561428252d12f1f9192bd8110b49/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/59d48d26600aabfc6325efd683291c2e61bad673/))
 was automatically generated
-from [bmuyl/theFuckingManual@e19aae6](https://github.com/bmuyl/theFuckingManual/tree/e19aae6c0948561428252d12f1f9192bd8110b49)
-on August 26, 2022.
+from [bmuyl/theFuckingManual@59d48d2](https://github.com/bmuyl/theFuckingManual/tree/59d48d26600aabfc6325efd683291c2e61bad673)
+on October 30, 2022.
 </em></small>
 
 ## Auteurs
@@ -104,6 +104,19 @@ Benjamin Muyl \<bmuyl@mac.com\>.
 
 ## Plan d'action
 
+        - Sur la démarche globale 
+            - 
+            - Redaction d’un statement
+            - Liste des problématiques considérées
+            - Identification des scenarii
+            - Évaluation scenarii imaginés par modèles / oracles
+            - Sélection d’un scenario d’actions
+            - rédaction de template de charte pour l’application du scénario 
+        - Sur le quota énergie ( pour lequel on cour circuite d’autorité tout le reste de l’organisation car pas encore en place) 
+            - Évaluation par modèle
+            - Développement d’un méthode de calcul ( recherche à financer, mais certainement des bases existent-elles ) 
+            - Rédaction de templates de chartes
+            - Lancement sur le territoire ( appuyé sur réseau  EELV ou LFI ? )
 
 
 ## 04.CommentParticiper

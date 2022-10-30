@@ -2,6 +2,7 @@ content/00.front-matter.md:26:Auteurs
 content/02.presentation-du-projet.md:1:Présentation
 content/02.presentation-du-projet.md:1:projet
 content/03.plan-d-action.md:1:d'action
+content/03.plan-d-action.md:10:charte
 content/04.comment-participer.md:1:CommentParticiper
 content/05.exemple-de-charte-du-citoyen.md:1:Charte
 content/05.exemple-de-charte-du-citoyen.md:1:citoyen
