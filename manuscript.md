@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09/))
 was automatically generated
-from [bmuyl/theFuckingManual@7447c21](https://github.com/bmuyl/theFuckingManual/tree/7447c213d5a01a2b1e00cc4cb74e86e70aaec4d7)
+from [bmuyl/theFuckingManual@7761529](https://github.com/bmuyl/theFuckingManual/tree/7761529a1aad3fbbf8f95adf1ea2facbd8d22a09)
 on October 30, 2022.
 </em></small>
 
@@ -131,6 +131,27 @@ But : aider les gens à s’organiser, à passer à l’action face aux pbs maje
             - Développement d’un méthode de calcul ( recherche à financer, mais certainement des bases existent-elles ) 
             - Rédaction de templates de chartes
             - Lancement sur le territoire ( appuyé sur réseau  EELV ou LFI ? )
+
+
+## Gestion de Projet
+
+
+Auto-éco-(ré)-organisation ( https://fr.wikipedia.org/wiki/Pensée_complexe )
+
+- Strategie
+    - Commencer local pour développer des valeurs
+    - Mettre en place la structure et les outils pour que ça grossisse seul
+    - Il ne s’agit pas d’en retirer les fruits ou de gagner le pouvoir
+
+- Planning
+    - Envisager un kackathon pour aller très vite. 
+    - Milestones pour le statement. 
+    - Milestones chartes  
+        - Date de signature premières chartes 
+- Amélioration continue
+    - Commencer simple 
+    - Appliquer Kaizen
+
 
 
 ## 04.CommentParticiper
