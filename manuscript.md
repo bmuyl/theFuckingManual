@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/59d48d26600aabfc6325efd683291c2e61bad673/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/59d48d26600aabfc6325efd683291c2e61bad673/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/59d48d26600aabfc6325efd683291c2e61bad673/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/c48b0efcd9c8dbc26ecf4f959b1515623246b08e/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/c48b0efcd9c8dbc26ecf4f959b1515623246b08e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/c48b0efcd9c8dbc26ecf4f959b1515623246b08e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/59d48d26600aabfc6325efd683291c2e61bad673/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/c48b0efcd9c8dbc26ecf4f959b1515623246b08e/))
 was automatically generated
-from [bmuyl/theFuckingManual@59d48d2](https://github.com/bmuyl/theFuckingManual/tree/59d48d26600aabfc6325efd683291c2e61bad673)
+from [bmuyl/theFuckingManual@c48b0ef](https://github.com/bmuyl/theFuckingManual/tree/c48b0efcd9c8dbc26ecf4f959b1515623246b08e)
 on October 30, 2022.
 </em></small>
 
@@ -100,6 +100,14 @@ Benjamin Muyl \<bmuyl@mac.com\>.
 
 ## Présentation du projet
 
+        - Auto saisissement de problématiques
+        - Critère de selection de problématiques
+        - Auto-organisation
+        - Open source
+        - Decision making principles
+        - Actions  (expected) results based
+        - Rédaction collaboratives des documents
+        - Comment participer
 
 
 ## Plan d'action
