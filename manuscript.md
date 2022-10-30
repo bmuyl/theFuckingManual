@@ -36,9 +36,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://bmuyl.github.io/theFuckingManual/" />
   <meta name="citation_pdf_url" content="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://bmuyl.github.io/theFuckingManual/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/5b73e30e6b15efeea78b53b729cc7f1131f29cb3/" />
-  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/5b73e30e6b15efeea78b53b729cc7f1131f29cb3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/5b73e30e6b15efeea78b53b729cc7f1131f29cb3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://bmuyl.github.io/theFuckingManual/v/7e5f24b07d7b7aaedcdeb05b3ab5f418f2c251fd/" />
+  <meta name="manubot_html_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7e5f24b07d7b7aaedcdeb05b3ab5f418f2c251fd/" />
+  <meta name="manubot_pdf_url_versioned" content="https://bmuyl.github.io/theFuckingManual/v/7e5f24b07d7b7aaedcdeb05b3ab5f418f2c251fd/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,9 +60,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://bmuyl.github.io/theFuckingManual/v/5b73e30e6b15efeea78b53b729cc7f1131f29cb3/))
+([permalink](https://bmuyl.github.io/theFuckingManual/v/7e5f24b07d7b7aaedcdeb05b3ab5f418f2c251fd/))
 was automatically generated
-from [bmuyl/theFuckingManual@5b73e30](https://github.com/bmuyl/theFuckingManual/tree/5b73e30e6b15efeea78b53b729cc7f1131f29cb3)
+from [bmuyl/theFuckingManual@7e5f24b](https://github.com/bmuyl/theFuckingManual/tree/7e5f24b07d7b7aaedcdeb05b3ab5f418f2c251fd)
 on October 30, 2022.
 </em></small>
 
@@ -95,13 +95,15 @@ Benjamin Muyl \<bmuyl@mac.com\>.
 
 ## Statement {.page_break_before}
 
-État des lieux, urgence, immobilisme malgré les engagements. 
-action par la base 
-Chartes locales, adaptées  - contenu à définir 
-Partage des ressources ( objets , outils , voitures, wifi, abonnements streaming … )
-On ne peut pas choisir un problème et lui proposer une solution. Tout est lié.
-Il faut “comprendre” la situation globale, imaginer des  scenarii de changement de paradigmes, les tester par des modèles. 
-But : aider les gens à s’organiser, à passer à l’action face aux pbs majeurs du monde 
+- État des lieux, urgence, immobilisme malgré les engagements. 
+- action par la base 
+- Chartes locales, adaptées  - contenu à définir 
+- Partage des ressources ( objets , outils , voitures, wifi, abonnements streaming … )
+- On ne peut pas choisir un problème et lui proposer une solution. Tout est lié.
+- Il faut “comprendre” la situation globale, imaginer des  scenarii de changement de paradigmes, les tester par des modèles. 
+
+
+- But : aider les gens à s’organiser, à passer à l’action face aux pbs majeurs du monde 
 
 
 ## Présentation du projet
@@ -119,7 +121,6 @@ But : aider les gens à s’organiser, à passer à l’action face aux pbs maje
 ## Plan d'action
 
         - Sur la démarche globale 
-            - 
             - Redaction d’un statement
             - Liste des problématiques considérées
             - Identification des scenarii
@@ -154,7 +155,7 @@ Auto-éco-(ré)-organisation ( https://fr.wikipedia.org/wiki/Pensée_complexe )
 
 
 
-## 04.CommentParticiper
+## 04.Comment Participer
 
 - développement outil pour rédaction collaborative des documents
 - Développement méthode de calcul de l’énergie des choses
@@ -166,83 +167,82 @@ Auto-éco-(ré)-organisation ( https://fr.wikipedia.org/wiki/Pensée_complexe )
 
 
 
-## Lescontenus d'une charte
+## Les contenus d'une charte
 
 
-Plan d’actions 
-Options mou / dur 
-Base du volontariat 
+- Plan d’actions 
+	- Options mou / dur 
+	- Base du volontariat 
 
-A qui s'adresse t elle ? 
-- employeurs 
-- Salaries 
-- Chef d’entreprise 
-- Entreprise 
-- Administration 
-- Parent 
-- Enfant 
-- Étudiant 
-- Touriste 
-- 
-Domaines 
-Énergie 
-Pollution 
-Usage de l’internet 
-Knowledge sharing 
-Objects sharing 
-Achats mutualises 
-Wifi partagés 
+- A qui s'adresse la charte:
+	- employeurs 
+	- Salaries 
+	- Chef d’entreprise 
+	- Entreprise 
+	- Administration 
+	- Parent 
+	- Enfant 
+	- Étudiant 
+	- Touriste 
 
-Time to apply
-Rewards
+- Domaines traités
+	- Énergie 
+	- Pollution 
+	- Usage de l’internet 
+	- Knowledge sharing 
+	- Objects sharing 
+	- Achats mutualises 
+	- Wifi partagés 
+
+- planning d'application 
+- Rewards
 
 
-Identification de l’ambition d’une charte 
-Classement 
-
- 
-
-Versions / niveau d’ambition 
+- Versions / niveau d’ambition 
+	- Identification de l’ambition d’une charte 
+	- Classement 
 
 ## Exemple de Charte du citoyen
 
 ## ressources 
 
-
-
-
-Ressources à considérer
-Smart contracts: https://ethereum.org/en/developers/docs/smart-contracts/
-Rewards:  https://openbadges.org
-Democratie :  https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki#table-of-content
-Open data:  https://ckan.org
-Licenses Opensource ( pour la publication des documents / des chartes … ) :  https://opensource.org/licenses
-
-
-Debating plate-forme  deb8
+- Ressources à considérer
+	- Smart contracts: https://ethereum.org/en/developers/docs/smart-contracts/
+	- Rewards:  https://openbadges.org
+	- Democratie :  https://github.com/DemocracyEarth/paper/blob/master/README.mediawiki#table-of-content
+	- Open data:  https://ckan.org
+	- Licenses Opensource ( pour la publication des documents / des chartes … ) :  https://opensource.org/licenses
+	- Debating plate-forme  deb8
 
 
 
 ## En vrac
 
 Nous proposons de développer ensemble des solutions communes pour répondre à ce qui nous semble être des problèmes majeurs de notre société, qui ne semblent y pas trouver de solution dans les politiques / les lois …
+
+
 Nous n’imposons rien à personne. Nous nous auto saisissons de problème et proposons des actions , des politiques, des documents , des outils 
-Libre à chacun, idéalement en groupe de 
-S’en saisir et d’organiser ainsi une réponse locale d’abord, puis nous l’espérons mondiale à ces problèmes 
-Toutes les actions sont “à la carte “ en fonction des volontés de chacun. Nous n’avons pas vocation à proposer une politique globale mais plutôt à des outils permettant une auto organisation de groupe autours de ces actions. 
+Libre à chacun, idéalement en groupe, de s’en saisir et d’organiser ainsi une réponse locale d’abord, puis nous l’espérons mondiale à ces problèmes.
+
+
+Toutes les actions sont “à la carte “ en fonction des volontés de chacun. Nous n’avons pas vocation à proposer une politique globale mais plutôt des outils permettant une auto organisation de groupe autours de ces actions. 
+
 
 Cette démarche est motivée par la nature globale des problèmatiques dont nous nous saisissons. 
 - Elles nous paraissent nécessiter une action de groupe
 - Elles ne nous paraissent pas trouver de solution adéquate ou assez rapide dans les actions des gouvernements
 
+
 Libre choix est laissé quant à la confidentialité de la participation à une charte 
 Nous ne souhaitons pas que cette démarche mène un une discrimination du fait d’y avoir ou de n’y avoir pas participé. 
+
 
 Les problèmes sont globaux, mais du fait de la sommes des actions individuelles. 
 Les problèmes sont sur le temps long quand les gouvernements sont jugés sur le temps court. 
 Le modèle de réponse aux problèmes qui se posent ne fonctionne plus. 
-Pour la première fois de l’histoire nous disposons d’un outil de communication globale pour synchroniser les actions humaines  
+Pour la première fois de l’histoire nous disposons d’un outil de communication globale pour synchroniser les actions humaines.
 Il a déjà servi lors des printemps arabes
+
 
 Saisissons de cet outil pour en faire un usage utile ( nous sauver , ou, au moins limiter nos souffrances ) plutôt qu’en laisser l’usage au grands groupe et ainsi persister dans la consommation de masse ( YouTube, Netflix, Amazon… ) et le narcicisme ( Instagram, Facebook, … )
 
@@ -264,15 +264,14 @@ A chaque fois que cela est possible nous nous efforcerons de documenter les effe
 
 
 
-Les administrateurs doivent signer anticor
-Moyens de rémunération ?
+Les administrateurs doivent signer anticor. 
+Moyens de rémunération des admnistrateurs ?
 
-L’internationale. 
 
 Remise en cause régulière. 
 Re evaluation des objectifs et des actions
 Kaizen 
- Par ces chartes et leur possible convergence dans le temps :  création d’une conscience de groupe libérée des Loby et des intérêts des grands groupes 
+Par ces chartes et leur possible convergence dans le temps :  création d’une conscience de groupe libérée des Loby et des intérêts des grands groupes 
 
 Comment n’être pas polué par les grands groupes ? 
 Déclaration d’intérêts ?  ( incompatible avec confidentialité ? ) 
@@ -284,10 +283,6 @@ Drivé par le passage à l’action et la publication de cette action pour faire
 Et tant pis si action imparfaite ou incomplète. On bouge. 
 
 
-
-
-Drive 20 km/h below speed limit
-Limit my leisure screen time
 
 
 ## Basic formatting

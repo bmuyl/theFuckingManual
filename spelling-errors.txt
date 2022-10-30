@@ -6,6 +6,7 @@ adaptées
 adéquate
 adipiscing
 administrateurs
+admnistrateurs
 aider
 ainsi
 aliqua
@@ -49,7 +50,6 @@ citoyen
 Classement
 climatique
 Commencer
-CommentParticiper
 commodo
 comprendre
 confidentialité
@@ -58,6 +58,7 @@ consequat
 considérer
 consommation
 contenu
+contenus
 création
 crédibilité
 Crise
@@ -68,11 +69,12 @@ d’action
 d’actions
 d’ambition
 dans
+d’application
 Déclaration
 définir
 déjà
 délation
-démarche
+Démarche
 Democratie
 démocratie
 d’en
@@ -101,7 +103,6 @@ effets
 efforcerons
 eiusmod
 elit
-elle
 Elles
 employeurs
 Énergie
@@ -159,7 +160,6 @@ laisser
 l’ambition
 l’éducation
 l’énergie
-Lescontenus
 l’espérons
 leur
 l’histoire
@@ -168,7 +168,6 @@ Libre
 lié
 lieux
 l’information
-L’internationale
 l’internet
 Loby
 Lorem
@@ -273,7 +272,7 @@ scenarii
 sed
 semble
 semblent
-S’en
+s’en
 servi
 seul
 sint
@@ -294,6 +293,7 @@ TheFuckingManual
 Touriste
 tous
 Toutes
+traités
 très
 trouver
 ullamco
